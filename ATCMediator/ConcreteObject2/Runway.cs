@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ATCMediator
 {
-    public class Runway : Command
+    public class Runway : ICommand
     {
 
         private IATCMediator atcMediator;
