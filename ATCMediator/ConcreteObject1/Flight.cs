@@ -2,6 +2,9 @@
 
 namespace ATCMediator
 {
+    /// <summary>
+    /// Concrete colleague A
+    /// </summary>
     public class Flight : ICommand
     {
 

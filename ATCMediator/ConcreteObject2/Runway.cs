@@ -2,6 +2,9 @@
 
 namespace ATCMediator
 {
+    /// <summary>
+    /// Concrete colleague B
+    /// </summary>
     public class Runway : ICommand
     {
 
